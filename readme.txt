@@ -1,1 +1,1 @@
-indexed diff2
+commit with no index
