@@ -1,1 +1,1 @@
-master merge test
+edited conflict master merge test
